@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Simple react app with user profile
+It queries an api gateway with username to retrieve relevant details
+![Sample Profile](profile.png)
 ## Available Scripts
 
 In the project directory, you can run:
